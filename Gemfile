@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
+gem 'securerandom'
 
 gem 'sinatra'
     gem 'rake'
